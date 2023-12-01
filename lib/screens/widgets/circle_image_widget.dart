@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:studentapp_provider/core/colors.dart';
+import 'package:studentapp_provider/core/constants.dart';
 
 class CircleImageWidget extends StatelessWidget {
   final double radius;
